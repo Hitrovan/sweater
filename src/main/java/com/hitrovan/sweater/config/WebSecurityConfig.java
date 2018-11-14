@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.config;
+package com.hitrovan.sweater.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -11,7 +11,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import com.hitrovan.spring1.service.UserService;
+import com.hitrovan.sweater.service.UserService;
 
 @Configuration
 @EnableWebSecurity

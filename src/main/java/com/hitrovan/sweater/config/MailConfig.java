@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.config;
+package com.hitrovan.sweater.config;
 
 import java.util.Properties;
 

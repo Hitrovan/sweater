@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.service;
+package com.hitrovan.sweater.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

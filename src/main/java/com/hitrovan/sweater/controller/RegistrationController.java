@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.controller;
+package com.hitrovan.sweater.controller;
 
 import java.util.Map;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.hitrovan.spring1.domain.User;
-import com.hitrovan.spring1.service.UserService;
+import com.hitrovan.sweater.domain.User;
+import com.hitrovan.sweater.service.UserService;
 
 @Controller
 public class RegistrationController {

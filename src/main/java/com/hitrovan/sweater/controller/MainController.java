@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.controller;
+package com.hitrovan.sweater.controller;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.hitrovan.spring1.domain.Message;
-import com.hitrovan.spring1.domain.User;
-import com.hitrovan.spring1.repository.MessageRepository;
+import com.hitrovan.sweater.domain.Message;
+import com.hitrovan.sweater.domain.User;
+import com.hitrovan.sweater.repository.MessageRepository;
 
 @Controller
 public class MainController {

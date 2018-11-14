@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.domain;
+package com.hitrovan.sweater.domain;
 
 import org.springframework.security.core.GrantedAuthority;
 

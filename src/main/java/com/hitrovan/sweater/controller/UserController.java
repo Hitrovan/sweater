@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.controller;
+package com.hitrovan.sweater.controller;
 
 import java.util.Map;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.hitrovan.spring1.domain.Role;
-import com.hitrovan.spring1.domain.User;
-import com.hitrovan.spring1.service.UserService;
+import com.hitrovan.sweater.domain.Role;
+import com.hitrovan.sweater.domain.User;
+import com.hitrovan.sweater.service.UserService;
 
 @Controller 
 @RequestMapping("/user")

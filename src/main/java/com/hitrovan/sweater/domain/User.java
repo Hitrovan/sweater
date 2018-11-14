@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.domain;
+package com.hitrovan.sweater.domain;
 
 import java.util.Collection;
 import java.util.Set;

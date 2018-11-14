@@ -1,4 +1,4 @@
-package com.hitrovan.spring1.service;
+package com.hitrovan.sweater.service;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -16,9 +16,9 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
-import com.hitrovan.spring1.domain.Role;
-import com.hitrovan.spring1.domain.User;
-import com.hitrovan.spring1.repository.UserRepository;
+import com.hitrovan.sweater.domain.Role;
+import com.hitrovan.sweater.domain.User;
+import com.hitrovan.sweater.repository.UserRepository;
 
 @Service
 public class UserService implements UserDetailsService {
