@@ -1,0 +1,14 @@
+com\hitrovan\spring1\controller\UserController.class
+com\hitrovan\spring1\service\UserService.class
+com\hitrovan\spring1\Application.class
+com\hitrovan\spring1\controller\RegistrationController.class
+com\hitrovan\spring1\domain\User.class
+com\hitrovan\spring1\config\MvcConfig.class
+com\hitrovan\spring1\service\MailSenderService.class
+com\hitrovan\spring1\config\MailConfig.class
+com\hitrovan\spring1\domain\Message.class
+com\hitrovan\spring1\controller\MainController.class
+com\hitrovan\spring1\domain\Role.class
+com\hitrovan\spring1\repository\MessageRepository.class
+com\hitrovan\spring1\repository\UserRepository.class
+com\hitrovan\spring1\config\WebSecurityConfig.class
